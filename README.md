@@ -8,3 +8,5 @@ Sobel,Prewitt,Roberts operators realization with a GUI(based on tkinter)
 using mophorlogy operation(erosion and dilation) to get the standard,internal and external edge of binarty image and also includes the conditional dilation(to do mophorlogical reconstruction) of binary image
 # gray_operation.py:
 using mophorlogy operation(erosion and dilation) to get the standard,internal and external edge of gray image and also includes the OBR and CBR(conditional dilation and erosion,respectivelly) to do the mophorlogical reconstruction of binary image
+# detection.py:
+distinguish the sided bottles in the picture
