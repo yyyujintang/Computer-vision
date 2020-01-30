@@ -1,5 +1,7 @@
 # Computer-vision
 basic code in computer vision and projects for SJTU course SE342
+# LogisticRegression.py
+# Perceptron_classification.py
 # filtering.py:
 median,mean and gaussian filtering on the picture(the kernel are adjustable and sigma of gaussain filter is also adjustable) with a GUI (based on tkinter)
 # edge_detector.py:
